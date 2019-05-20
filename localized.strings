@@ -1,0 +1,1320 @@
+/* (ridername) was added to your group. */
+"%@ was added to your group." = "%@ was added to your group.";
+
+/* + Follow */
+"+ Follow" = "+ Follow";
+
+/* - CHANGES HERE Unfollow */
+"- Unfollow" = "- Unfollow";
+
+/* <p>&nbsp;</p><p>&nbsp;</p>Username: %@ </p><p>Phone Model: %@ </p><p>System: %@ </p><p>App Version: %@</p> */
+"<p>&nbsp;</p><p>&nbsp;</p>Username: %@ </p><p>Phone Model: %@ </p><p>System: %@ </p><p>App Version: %@</p>" = "<p>&nbsp;</p><p>&nbsp;</p>Username: %1$@ </p><p>Phone Model: %2$@ </p><p>System: %3$@ </p><p>App Version: %4$@</p>";
+
+/* Download the ESR App message */
+"<p><a href=\"https://w59wt.app.goo.gl/n7tH\">Get the EatSleepRIDE® Motorcycles app</a> </p>The EatSleepRIDE app is designed specifically for motorcycle riders. Record your rides and visualize your data, explore the greatest motorcycle roads and create unlimited ride groups. Get CRASHLIGHT® to reassure friends and family in the event of an emergency. We're on a mission to help you ride more!" = "<p><a href=\"https://w59wt.app.goo.gl/n7tH\">Get the EatSleepRIDE® Motorcycles app</a> </p>The EatSleepRIDE app is designed specifically for motorcycle riders. Record your rides and visualize your data, explore the greatest motorcycle roads and create unlimited ride groups. Get CRASHLIGHT® to reassure friends and family in the event of an emergency. We're on a mission to help you ride more!";
+
+/* About Me */
+"About Me changes here " = "About Me";
+
+/* Achievements */
+"Achievements" = "Achievements";
+
+/* Add a picture of your bike */
+"Add a picture of your bike" = "Add a picture of your bike";
+
+/* Add a rider to your Group. When they add you back, you'll see each other's location on the map. */
+"Add a rider to your Group. When they add you back, you'll see each other's location on the map." = "Add a rider to your Group. When they add you back, you'll see each other's location on the map.";
+
+/* Add a subject. */
+"Add a subject." = "Add a subject.";
+
+/* Add at least one contact to enable CRASHLIGHT. */
+"Add at least one contact to enable CRASHLIGHT." = "Add at least one contact to enable CRASHLIGHT.";
+
+/* Add comment */
+"Add comment" = "Tap to add a comment";
+
+/* Add Contact */
+"Add Contact" = "Add Contact";
+
+/* Add contact from */
+"Add contact from" = "Add contact from";
+
+/* Add to My Garage */
+"Add to My Garage" = "Add to My Garage";
+
+/* Address Book */
+"Address Book" = "Address Book";
+
+/* Adventure */
+"Adventure" = "Adventure";
+
+/* Allow */
+"Allow" = "Allow";
+
+/* Allow ESR to access your location while using the app? */
+"Allow ESR to access your location while using the app?" = "Allow ESR to access your location while using the app?";
+
+/* An email is on its way to you with instructions. */
+"An email is on its way to you with instructions." = "An email is on its way to you with instructions.";
+
+/* Are you ready to post? */
+"Are you ready to post?" = "Are you ready to post?";
+
+/* Are you sure you want to delete your post? It'll be lost permanently. */
+"Are you sure you want to delete your post? It'll be lost permanently." = "Are you sure you want to delete your post? It'll be lost permanently.";
+
+/* Are you sure you want to leave the Challenge? */
+"Are you sure you want to leave the Challenge?" = "Are you sure you want to leave the Challenge?";
+
+/* Are you sure you want to remove the rider? */
+"Are you sure you want to remove the rider?" = "Are you sure you want to remove the rider?";
+
+/* Are you sure you want to test CRASHLIGHT? Real alerts will be sent to your contacts! */
+"Are you sure you want to test CRASHLIGHT? Real alerts will be sent to your contacts!" = "Are you sure you want to test CRASHLIGHT? Real alerts will be sent to your contacts!";
+
+/* Are you sure? */
+"Are you sure?" = "Are you sure?";
+
+/* away */
+"away" = "away";
+
+/* Back */
+"Back" = "Back";
+
+/* Bar / Pub */
+"Bar / Pub" = "Bar / Pub";
+
+/* Bike */
+"Bike" = "Bike";
+
+/* Birthdate */
+"Birthdate" = "Birthdate";
+
+/* Bookmarks */
+"Bookmarks" = "Bookmarks";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"CANCELLING CRASH REPORT" = "CANCELLING CRASH REPORT";
+
+/* Cannot view image */
+"Cannot view image" = "Cannot view image";
+
+/* Challenges */
+"Challenges" = "Challenges";
+
+/* Chest Pocket */
+"Chest Pocket" = "Chest Pocket";
+
+/* Choose a picture */
+"Choose a picture" = "Choose a picture";
+
+/* Choose Default Image */
+"Choose Default Image" = "Choose Default Image";
+
+/* Clear Map */
+"Clear Map" = "Clear Map";
+
+/* Confirm */
+"Confirm" = "Confirm";
+
+/* Confirm new password */
+"Confirm new password" = "Confirm new password";
+
+/* Confirm Password */
+"Confirm Password" = "Confirm Password";
+
+/* Could not get user info from Facebook. */
+"Could not get user info from Facebook, please try again." = "Could not get user info from Facebook, please try again.";
+
+/* Couldn't able to find any contact number. */
+"Couldn't able to find any contact number." = "Couldn't able to find any contact number.";
+
+/* CRASHLIGHT® is off */
+"CRASHLIGHT® is off" = "CRASHLIGHT® is off";
+
+/* CRASHLIGHT® requires Ride Recording, an active data connection and a reliable GPS signal. Ride safe. */
+"CRASHLIGHT® requires Ride Recording, an active data connection and a reliable GPS signal. Ride safe." = "CRASHLIGHT® requires Ride Recording, an active data connection and a reliable GPS signal. Ride safe.";
+
+/* Create */
+"Create" = "Create";
+
+/* Create New Contact */
+"Create New Contact" = "Create New Contact";
+
+/* No comment provided by engineer. */
+"CREATING CRASH REPORT" = "CREATING CRASH REPORT";
+
+/* Credits */
+"Credits" = "Credits";
+
+/* Cruiser */
+"Cruiser" = "Cruiser";
+
+/* Custom */
+"Custom" = "Custom";
+
+/* Dashboard */
+"Dashboard" = "Dashboard";
+
+/* Days */
+"Days" = "Days";
+
+/* Delete */
+"Delete" = "Delete";
+
+/* Delete Message */
+"Delete Message" = "Delete Message";
+
+/* Delete Post */
+"Delete Post" = "Delete Post";
+
+/* Delete this emergency contact? */
+"Delete this emergency contact?" = "Delete this emergency contact?";
+
+/* Did you have a crash? */
+"Did you have a crash?" = "Did you have a crash?";
+
+/* Discard */
+"Discard" = "Discard";
+
+/* Do you want to clear the map permanently? */
+"Do you want to clear the map permanently?" = "Do you want to clear the map permanently?";
+
+/* Does your ESR name (\(usernameTextField.validationText)) look right? It can't be changed.\n\nDoes your email (\(emailTextField.validationText)) look right? You can change it later. */
+"Does your ESR name (\(usernameTextField.validationText)) look right? It can't be changed.\n\nDoes your email (\(emailTextField.validationText)) look right? You can change it later." = "Does your ESR name (\(usernameTextField.validationText)) look right? It can't be changed.\n\nDoes your email (\(emailTextField.validationText)) look right? You can change it later.";
+
+/* Don't Allow */
+"Don't Allow" = "Don't Allow";
+
+/* Done */
+"Done" = "Done";
+
+/* Done! */
+"Done!" = "Done!";
+
+/* Double Checking! */
+"Double Checking!" = "Double Checking!";
+
+/* Dual Sport */
+"Dual Sport" = "Dual Sport";
+
+/* DURATION */
+"DURATION" = "DURATION";
+
+/* EatSleepRIDE Mobile App for iOS */
+"EatSleepRIDE Mobile App for iOS" = "EatSleepRIDE Mobile App for iOS";
+
+/* EatSleepRIDE Motorcycles iPhone App */
+"EatSleepRIDE Motorcycles iPhone App" = "EatSleepRIDE Motorcycles App";
+
+/* Edit */
+"Edit" = "Edit";
+
+/* Edit profile */
+"Edit profile" = "Edit profile";
+
+/* Email */
+"Email" = "Email";
+
+/* Enable location to view nearby post */
+"Enable location to view nearby post" = "Enable location to view nearby post";
+
+/* Enabled location to test CRASHLIGHT */
+"Enabled location to test CRASHLIGHT" = "Enabled location to test CRASHLIGHT";
+
+/* End */
+"End" = "End";
+
+/* Enter a valid email. */
+"Enter a valid email." = "Enter a valid email.";
+
+/* Enter current password */
+"Enter current password" = "Enter current password";
+
+/* Enter end date of event. */
+"Enter end date of event." = "Enter end date of event.";
+
+/* Enter making of bike. */
+"Enter making of bike." = "Enter making of bike.";
+
+/* Enter model of bike. */
+"Enter model of bike." = "Enter model of bike.";
+
+/* Enter new password */
+"Enter new password" = "Enter new password";
+
+/* Enter start date of event. */
+"Enter start date of event." = "Enter start date of event.";
+
+/* Enter the email associated with your account. */
+"Enter the email associated with your account." = "Enter the email associated with your account.";
+
+/* Enter the type of place. */
+"Enter the type of place." = "Enter the type of place.";
+
+/* Enter your title */
+"Enter your title" = "Enter your title";
+
+/* ESR couldn't reach the Internet. Check your connection and try again. */
+"ESR couldn't reach the Internet. Check your connection and try again." = "ESR couldn't reach the Internet. Check your connection and try again.";
+
+/* ESR Name */
+"ESR Name" = "ESR Name";
+
+/* ESR Name or Email */
+"ESR Name or Email" = "ESR Name or Email";
+
+/* ESR name requires at least one letter */
+"ESR name requires at least one letter" = "ESR name requires at least one letter";
+
+/* ESR uses this to help you record a ride, find friends nearby and enable group ride. */
+"ESR uses this to help you record a ride, find friends nearby and enable group ride." = "ESR uses this to help you record a ride, find friends nearby and enable group ride.";
+
+/* Event */
+"Event" = "Event";
+
+/* Everyone */
+"Everyone" = "Everyone";
+
+/* Explanation */
+"Explanation" = "Explanation";
+
+/* Explore */
+"Explore" = "Explore";
+
+/* Failed */
+"Failed" = "Failed";
+
+/* Failed to delete message */
+"Failed to delete message" = "Failed to delete message";
+
+/* Failed to get current location */
+"Failed to get current location" = "Failed to get current location";
+
+/* Failed to get search results. */
+"Failed to get search results." = "Failed to get search results.";
+
+/* Fairing Compartment */
+"Fairing Compartment" = "Fairing Compartment";
+
+/* No comment provided by engineer. */
+"False Alarm - Slide to Cancel" = "False Alarm - Slide to Cancel";
+
+/* Featured */
+"Featured" = "Featured";
+
+/* Feeds */
+"Feeds" = "Feeds";
+
+/* feet */
+"feet" = "feet";
+
+/* Female */
+"Female" = "Female";
+
+/* Fields can't be left empty */
+"Fields can't be left empty" = "Fields can't be left empty";
+
+/* Follower */
+"Follower" = "Follower";
+
+/* Following */
+"Following" = "Following";
+
+/* Fresh */
+"Fresh" = "Fresh";
+
+/* Friends */
+"Friends" = "Friends";
+
+/* ft */
+"ft" = "ft";
+
+/* Gas Station */
+"Gas Station" = "Gas Station";
+
+/* Go Back */
+"Go Back" = "Go Back";
+
+/* Go ride! You have no Saved Rides. */
+"Go ride! You have no Saved Rides." = "Go ride! You have no Saved Rides.";
+
+/* Group */
+"Group" = "Group";
+
+/* H-D® 100 */
+"H-D® 100" = "H-D® 100";
+
+/* H-D® 100 Challenge! */
+"H-D® 100 Challenge!" = "H-D® 100 Challenge!";
+
+/* Handlebar Mount */
+"Handlebar Mount" = "Handlebar Mount";
+
+/* Help improve CRASHLIGHT with some info! */
+"Help improve CRASHLIGHT with some info!" = "Help improve CRASHLIGHT with some info!";
+
+/* Hotel */
+"Hotel" = "Hotel";
+
+/* I AGREE */
+"I AGREE" = "I AGREE";
+
+/* I KNOW */
+"I KNOW" = "I KNOW";
+
+/* No comment provided by engineer. */
+"I'm OK! Notify My Contacts Now" = "I'm OK! Notify My Contacts Now";
+
+/* ignore */
+"Ignore" = "Ignore";
+
+/* Immediately upload content using my current connection. */
+"Immediately upload content using my current connection. " = "Immediately upload content using my current connection. ";
+
+/* In the event of a crash contacts will not be notified. */
+"In the event of a crash contacts will not be notified." = "In the event of a crash contacts will not be notified.";
+
+/* In-App Purchases disabled from Settings > General > Restrictions */
+"In-App Purchases disabled from Settings > General > Restrictions" = "In-App Purchases disabled from Settings > General > Restrictions";
+
+/* Internet Connection Required. */
+"Internet Connection Required." = "Internet Connection Required.";
+
+/* INTERNET CONNECTIVITY REQUIRED. */
+"INTERNET CONNECTIVITY REQUIRED." = "INTERNET CONNECTIVITY REQUIRED.";
+
+/* JOIN */
+"JOIN" = "JOIN";
+
+/* Just now */
+"Just now" = "Just now";
+
+/* Keep Recording */
+"Keep Recording" = "Keep Recording";
+
+/* kilometers */
+"kilometers" = "kilometers";
+
+/* km */
+"km" = "km";
+
+/* km/h */
+"km/h" = "km/h";
+
+/* Last seen */
+"Last seen" = "Last seen";
+
+/* Leaderboard */
+"Leaderboard" = "Leaderboard";
+
+/* Leaders */
+"Leaders" = "Leaders";
+
+/* Leave Challenge */
+"Leave Challenge" = "Leave Challenge";
+
+/* Leave this page? */
+"Leave this page?" = "Leave this page?";
+
+/* Live */
+"Live" = "Live";
+
+/* Loading */
+"Loading" = "Loading";
+
+/* Loading... */
+"Loading..." = "Loading...";
+
+/* Locating... */
+"Locating..." = "Locating...";
+
+/* Location */
+"Location" = "Location";
+
+/* Location functions are now disabled */
+"Location functions are now disabled" = "Location functions are now disabled";
+
+/* Looking for location */
+"Looking for location" = "Looking for location";
+
+/* m */
+"m" = "m";
+
+/* Make */
+"Make" = "Make";
+
+/* Make sure your device is connected to the internet. */
+"Make sure your device is connected to the internet." = "Make sure your device is connected to the internet.";
+
+/* Male */
+"Male" = "Male";
+
+/* Mechanic Repair Shop */
+"Mechanic Repair Shop" = "Mechanic Repair Shop";
+
+/* meters */
+"meters" = "meters";
+
+/* mi */
+"mi" = "mi";
+
+/* miles */
+"miles" = "miles";
+
+/* Model */
+"Model" = "Model";
+
+/* No comment provided by engineer. */
+"MOVING - SELF CANCELLING" = "MOVING - SELF CANCELLING";
+
+/* mph */
+"mph" = "mph";
+
+/* give your ride a name */
+"Name your ride" = "Name your ride";
+
+/* Nearby */
+"Nearby" = "Nearby";
+
+/* New Password and Confirm Password do not match. */
+"New Password and Confirm Password do not match." = "New Password and Confirm Password do not match.";
+
+/* Next */
+"Next" = "Next";
+
+/* No */
+"No" = "No";
+
+/* No data network was found. Please check your WiFi or mobile data settings and try again. */
+"No data network was found. Please check your WiFi or mobile data settings and try again." = "No data network was found. Please check your WiFi or mobile data settings and try again.";
+
+/* No email account found */
+"No email account found" = "No email account found";
+
+/* No Internet Connection */
+"No Internet Connection" = "No Internet Connection";
+
+/* NO INTERNET CONNECTIVITY. */
+"NO INTERNET CONNECTIVITY." = "NO INTERNET CONNECTIVITY.";
+
+/* INTERNET CONNECTIVITY REQUIRED. CRASHLIGHT® CAN'T NOTIFY. */
+"NO INTERNET CONNECTIVITY. CRASHLIGHT® CAN'T NOTIFY." = "NO INTERNET CONNECTIVITY. CRASHLIGHT® CAN'T NOTIFY.";
+
+/* No Message found. */
+"No Message found." = "No Message found.";
+
+/* No story found. */
+"No story found." = "No story found.";
+
+/* No Thanks */
+"No Thanks" = "No Thanks";
+
+/* Nobody */
+"Nobody" = "Nobody";
+
+/* Not found */
+"Not found" = "Not found";
+
+/* Not now */
+"Not now" = "Not now";
+
+/* Off Road */
+"Off Road" = "Off Road";
+
+/* OK */
+"OK" = "OK";
+
+/* OK */
+"ok" = "ok";
+
+/* Oops! */
+"Oops!" = "Oops!";
+
+/* Oops! Add a valid email. */
+"Oops! Add a valid email." = "Oops! Add a valid email.";
+
+/* Open */
+"Open" = "Open";
+
+/* Open Settings */
+"Open Settings" = "Open Settings";
+
+/* Other */
+"Other" = "Other";
+
+/* Out of date */
+"Out of Date" = "Out of Date";
+
+/* Pants Pocket */
+"Pants Pocket" = "Pants Pocket";
+
+/* Password */
+"Password" = "Password";
+
+/* Real name must be at least 3 characters long. */
+"Real name must be at least 3 characters long." = "Real name must be at least 3 characters long.";
+
+/* Password must be at least 6 characters long. */
+"Password must be at least 6 characters long." = "Password must be at least 6 characters long.";
+
+/* Permission required */
+"Permission required" = "Permission required";
+
+/* Pick a Ride */
+"Pick a Ride" = "Pick a Ride";
+
+/* Pick a route. */
+"Pick a route." = "Pick a route.";
+
+/* Pick from Photo Library */
+"Pick from Photo Library" = "Pick from Photo Library";
+
+/* Place */
+"Place" = "Place";
+
+/* Places Nearby */
+"Places Nearby" = "Places Nearby";
+
+/* Please add a photo */
+"Please add a photo" = "Please add a photo";
+
+/* Please check your username or password. You can reset your password by clicking reset button. */
+"Please check your username or password. You can reset your password by clicking reset button." = "Please check your username or password. You can reset your password by clicking reset button.";
+
+/* Please try again with the country code if its out side the US. */
+"Please try again with the country code if its out side the US." = "Please try again with the country code if its out side the US.";
+
+/* Post */
+"Post" = "Post";
+
+/* Posting */
+"Posting" = "Posting";
+
+/* Privacy and Terms */
+"Privacy and Terms" = "Privacy and Terms";
+
+/* Provide your password. */
+"Provide your password." = "Provide your password.";
+
+/* Provide your username. */
+"Provide your username." = "Provide your username.";
+
+/* QA */
+"QA" = "QA";
+
+/* Racetrack/Venue */
+"Racetrack/Venue" = "Racetrack/Venue";
+
+/* Read and consent the Privacy Policy. */
+"Read and consent the Privacy Policy." = "Read and consent the Privacy Policy.";
+
+/* Read Posts */
+"Read Posts" = "Read Posts";
+
+/* Real Name */
+"Real Name" = "Real Name";
+
+/* Real Name */
+"RealName" = "RealName";
+
+/* Remove */
+"Remove" = "Remove";
+
+/* Remove from My Garage */
+"Remove from My Garage" = "Remove from My Garage";
+
+/* Reset your password */
+"Reset your password" = "Reset your password";
+
+/* Restart the app to see all changes */
+"Restart the app to see all changes" = "Restart the app to see all changes";
+
+/* Restaurant / Cafe */
+"Restaurant / Cafe" = "Restaurant / Cafe";
+
+/* Restore your purchase */
+"Restore your purchase" = "Restore your purchase";
+
+/* resume */
+"Resume" = "Resume";
+
+/* Retry */
+"Retry" = "Retry";
+
+/* Reuse */
+"Reuse" = "Reuse";
+
+/* Ride Group */
+"Ride Group" = "Ride Group";
+
+/* Ride in progress */
+"Ride in Progress" = "Ride in Progress";
+
+/* Rider was added in your group. */
+"Rider was added in your group." = "Rider was added in your group.";
+
+/* Riders */
+"Riders" = "Riders";
+
+/* Riders Nearby */
+"Riders Nearby" = "Riders Nearby";
+
+/* Rides */
+"Rides" = "Rides";
+
+/* Riding Since */
+"Riding Since" = "Riding Since";
+
+/* Route */
+"Route" = "Route";
+
+/* Routes Nearby */
+"Routes Nearby" = "Routes Nearby";
+
+/* Save */
+"Save" = "Save";
+
+/* Save on data, upload content only when a WiFi network is available. */
+"Save on data, upload content only when a WiFi network is available." = "Save on data, upload content only when a WiFi network is available.";
+
+/* Save Ride */
+"Save Ride" = "Save Ride";
+
+/* Saving */
+"Saving" = "Saving";
+
+/* Say something */
+"Say something" = "Say something";
+
+/* Say something about you */
+"Say something about you" = "Say something about you";
+
+/* Scenic Reststop */
+"Scenic Reststop" = "Scenic Reststop";
+
+/* Scooter */
+"Scooter" = "Scooter";
+
+/* Search */
+"Search" = "Search";
+
+/* seconds */
+"seconds" = "seconds";
+
+/* Select a recipient. */
+"Select a recipient." = "Select a recipient.";
+
+/* Select device location */
+"Select device location" = "Select device location";
+
+/* Select Endpoint */
+"Select Endpoint" = "Select Endpoint";
+
+/* Select your bike */
+"Select your bike" = "Select your bike";
+
+/* No comment provided by engineer. */
+"SENDING INCIDENT DETAIL..." = "SENDING INCIDENT DETAIL...";
+
+/* Set A Contact */
+"Set A Contact" = "Set A Contact";
+
+/* Set at least one contact to turn on CRASHLIGHT. */
+"Set at least one contact to turn on CRASHLIGHT." = "Set at least one contact to turn on CRASHLIGHT.";
+
+/* Set your location */
+"Set your location" = "Set your location";
+
+/* Setting */
+"Setting" = "Setting";
+
+/* Share */
+"Share" = "Share";
+
+/* Share Location */
+"Share Location" = "Share Location";
+
+/* Side Pocket */
+"Side Pocket" = "Side Pocket";
+
+/* Sign Up failed, please try again. */
+"Sign Up failed, please try again." = "Sign Up failed, please try again.";
+
+/* Sign Up! */
+"Sign Up!" = "Sign Up!";
+
+/* Snap! */
+"Snap!" = "Snap!";
+
+/* Snap! You're not being followed by anyone. */
+"Snap! You're not being followed by anyone." = "Snap! You're not being followed by anyone.";
+
+/* Snap! You're not following anyone. */
+"Snap! You're not following anyone." = "Snap! You're not following anyone.";
+
+/* Email not found */
+"Email not found" = "Email not found";
+
+/* Sorry, please try again. */
+"Sorry, please try again." = "Sorry, please try again.";
+
+/* Special characters are not supported */
+"Special characters are not supported" = "Special characters are not supported";
+
+/* Special characters are not supported in real name. */
+"Special characters are not supported in real name." = "Special characters are not supported in real name.";
+
+/* Special characters are not supported in Username. */
+"Special characters are not supported in Username." = "Special characters are not supported in Username.";
+
+/* speed */
+"speed" = "speed";
+
+/* Speed Trap */
+"Speed Trap" = "Speed Trap";
+
+/* Sport Bike */
+"Sport Bike" = "Sport Bike";
+
+/* Standard */
+"Standard" = "Standard";
+
+/* Start */
+"Start" = "Start";
+
+/* Start over/ Start Again */
+"Start Over" = "Start Over";
+
+/* Status */
+"Status" = "Status";
+
+/* Stop recording and save your ride.\nTo view go to Me > Saved Rides */
+"Stop recording and save your ride.\nTo view go to Me > Saved Rides" = "Stop recording and save your ride.\nTo view go to Me > Saved Rides";
+
+/* Story */
+"Story" = "Story";
+
+/* Take a New Photo */
+"Take a New Photo" = "Take a New Photo";
+
+/* Tank Bag */
+"Tank Bag" = "Tank Bag";
+
+/* Team */
+"Team" = "Team";
+
+/* Tell your story. */
+"Tell your story." = "Tell your story.";
+
+/* Test CRASHLIGHT */
+"Test CRASHLIGHT" = "Test CRASHLIGHT";
+
+/* Test CRASHLIGHT? Real alerts will be sent to your contacts! */
+"Test CRASHLIGHT? Real alerts will be sent to your contacts!" = "Test CRASHLIGHT? Real alerts will be sent to your contacts!";
+
+/* That email address is already in use, check the email and try again! */
+"That email address is already in use, check the email and try again!" = "That email address is already in use, check the email and try again!";
+
+/* That email address is already in use, try again! */
+"That email address is already in use, try again!" = "That email address is already in use, try again!";
+
+/* That ESR name is already taken, try again! */
+"That ESR name is already taken, try again!" = "That ESR name is already taken, try again!";
+
+/* That number doesn't look valid. */
+"That number doesn't look valid." = "That number doesn't look valid.";
+
+/* That was too short to count. */
+"That was too short to count." = "That was too short to count.";
+
+/* The rider was removed from your group. */
+"The rider was removed from your group." = "The rider was removed from your group.";
+
+/* The rider wasn't removed. Please try again. */
+"The rider wasn't removed. Please try again." = "The rider wasn't removed. Please try again.";
+
+/* There is nothing to upload. */
+"There is nothing to upload." = "There is nothing to upload.";
+
+/* There was an error, please quit and try again. */
+"There was an error, please quit and try again." = "There was an error, please quit and try again.";
+
+/* There was an error, your story could not be saved. */
+"There was an error, your story could not be saved." = "There was an error, your story could not be saved.";
+
+/* This cannot be undone, and your ride distance will be not be updated */
+"This cannot be undone, and your ride distance will be not be updated" = "This cannot be undone, and your ride distance will be not be updated";
+
+/* This ride seems to be to short. Please try again. */
+"This ride seems to be to short. Please try again." = "This ride seems to be to short. Please try again.";
+
+/* Title */
+"Title" = "Title";
+
+/* Title must be more than 3 characters. */
+"Title must be more than 3 characters." = "Title must be more than 3 characters.";
+
+/* Top Box/Panniers */
+"Top Box/Panniers" = "Top Box/Panniers";
+
+/* Touring */
+"Touring" = "Touring";
+
+/* Try again later */
+"Try again later" = "Try again later";
+
+/* Try following a few riders. */
+"Try following a few riders." = "Try following a few riders.";
+
+/* Turn Bluetooth® on to play. */
+"Turn Bluetooth® on to play." = "Turn Bluetooth® on to play.";
+
+/* Turning CRASHLIGHT® On! */
+"Turning CRASHLIGHT® On!" = "Turning CRASHLIGHT® On!";
+
+/* Type */
+"Type" = "Type";
+
+/* Unfollowing */
+"Unfollowing" = "Unfollowing";
+
+/* Unlock CRASHLIGHT PRO */
+"Unlock CRASHLIGHT PRO" = "Unlock CRASHLIGHT PRO";
+
+/* Upload Queue */
+"Upload Queue" = "Upload Queue";
+
+/* Uploading now */
+"Uploading now" = "Uploading now";
+
+/*  Waiting */
+"Waiting" = "Waiting";
+
+/* Which endpoint would you like to use for this session. */
+"Which endpoint would you like to use for this session." = "Which endpoint would you like to use for this session.";
+
+/* Write a message. */
+"Write a message." = "Write a message.";
+
+/* Year */
+"Year" = "Year";
+
+/* Yes */
+"Yes" = "Yes";
+
+/* You appear to have a ride in progress */
+"You appear to have a ride in progress" = "You appear to have a ride in progress";
+
+/* You collected %d points! */
+"You collected %d points!" = "You collected %d points!";
+
+/* You haven't received a message yet. */
+"You haven't received a message yet." = "You haven't received a message yet.";
+
+/* You haven't sent a message yet. */
+"You haven't sent a message yet." = "You haven't sent a message yet.";
+
+/* You must agree to the Privacy and Terms of Service to Sign Up. */
+"You must agree to the Privacy and Terms of Service to Sign Up." = "You must agree to the Privacy and Terms of Service to Sign Up.";
+
+/* You must enter a name for this contact. */
+"You must enter a name for this contact." = "You must enter a name for this contact.";
+
+/* You need an email configured to contact EatSleepRIDE - You can email us directly at feedback@eatsleepride.com for support. */
+"You need an email configured to contact EatSleepRIDE - You can email us directly at feedback@eatsleepride.com for support" = "You need an email configured to contact EatSleepRIDE - You can email us directly at feedback@eatsleepride.com for support";
+
+/* You've entered an H-D® 100 Challenge area. Play now to collect points and win prizes. */
+"You've entered an H-D® 100 Challenge area. Play now to collect points and win prizes." = "You've entered an H-D® 100 Challenge area. Play now to collect points and win prizes.";
+
+/* You've not ridden yet */
+"You've not ridden yet" = "You've not ridden yet";
+
+/* Your ESR name must be at least %ld characters long. */
+"Your ESR name must be at least %ld characters long." = "Your ESR name must be at least %ld characters long.";
+
+/* Your ESR name must be at least 3 characters long. */
+"Your ESR name must be at least 3 characters long." = "Your ESR name must be at least 3 characters long.";
+
+/* Your ESR name should not exceed %ld characters. */
+"Your ESR name should not exceed %ld characters." = "Your ESR name should not exceed %ld characters.";
+
+/* Your ESR name should not exceed 20 characters. */
+"Your ESR name should not exceed 20 characters." = "Your ESR name should not exceed 20 characters.";
+
+/* Your last ride was %d days ago */
+"Your last ride was %d days ago" = "Your last ride was %d days ago";
+
+/* Your last ride was Today */
+"Your last ride was today" = "Your last ride was today";
+
+/* Your message is sent. Manage delivery in Settings > My Uploads. */
+"Your message is sent. Manage delivery in Settings > My Uploads." = "Your message is sent. Manage delivery in Settings > My Uploads.";
+
+/* Your message will be deleted. */
+"Your message will be deleted." = "Your message will be deleted.";
+
+/* Your old password is incorrect. */
+"Your old password is incorrect." = "Your old password is incorrect.";
+
+/* Your Password has been changed. */
+"Your Password has been changed." = "Your Password has been changed.";
+
+/* Your passwords don't match. Try again. */
+"Your passwords don't match. Try again." = "Your passwords don't match. Try again.";
+
+/* Your post will be deleted. */
+"Your post will be deleted." = "Your post will be deleted.";
+
+/* Your post will be published shortly. Manage uploads in Settings > My Uploads. */
+"Your post will be published shortly. Manage uploads in Settings > My Uploads." = "Your post will be published shortly. Manage uploads in Settings > My Uploads.";
+
+
+/* FROM OBJC */
+
+/* No comment provided by engineer. */
+"%@ ago" = "%@ ago";
+
+/* No comment provided by engineer. */
+"%d days" = "%d days";
+
+/* No comment provided by engineer. */
+"%d hours" = "%d hours";
+
+/* No comment provided by engineer. */
+"%d minutes ago" = "%d minutes ago";
+
+/* No comment provided by engineer. */
+"%d months" = "%d months";
+
+/* No comment provided by engineer. */
+"%d years" = "%d years";
+
+/* Download the ESR App message */
+"<p><a href=\"https://w59wt.app.goo.gl/n7tH\">Get the EatSleepRIDE® Motorcycles app</a> </p>The EatSleepRIDE app is designed specifically for motorcycle riders. Record your rides and visualize your data, explore the greatest motorcycle roads and create unlimited ride groups. Get CRASHLIGHT® to reassure friends and family in the event of an emergency. We're on a mission to help you ride more!" = "<p><a href=\"https://w59wt.app.goo.gl/n7tH\">Get the EatSleepRIDE® Motorcycles app</a> </p>The EatSleepRIDE app is designed specifically for motorcycle riders. Record your rides and visualize your data, explore the greatest motorcycle roads and create unlimited ride groups. Get CRASHLIGHT® to reassure friends and family in the event of an emergency. We're on a mission to help you ride more!";
+
+/* No comment provided by engineer. */
+"A day" = "A day";
+
+/* No comment provided by engineer. */
+"A month" = "A month";
+
+/* No comment provided by engineer. */
+"A year" = "A year";
+
+/* No comment provided by engineer. */
+"All" = "All";
+
+/* No comment provided by engineer. */
+"An hour" = "An hour";
+
+/* No comment provided by engineer. */
+"Bike" = "Bike";
+
+/* No comment provided by engineer. */
+"Can not parse server response" = "Can not parse server response";
+
+/* No comment provided by engineer. */
+"Classified" = "Classified";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* No comment provided by engineer. */
+"Comment" = "Comment";
+
+/* No comment provided by engineer. */
+"Could not connect to server. Please try again." = "Could not connect to server. Please try again.";
+
+/* EatSleepRIDE Motorcycles iPhone App */
+"EatSleepRIDE Motorcycles iPhone App" = "EatSleepRIDE Motorcycles App";
+
+/* FT */
+"FT" = "FT";
+
+/* No comment provided by engineer. */
+"How To" = "How To";
+
+/* No comment provided by engineer. */
+"How-to" = "How-to";
+
+/* No comment provided by engineer. */
+"Image" = "Image";
+
+/* No comment provided by engineer. */
+"Just now" = "Just now";
+
+/* KM */
+"KM" = "KM";
+
+/* KM/H */
+"KM/H" = "KM/H";
+
+/* M */
+"M" = "M";
+
+/* No comment provided by engineer. */
+"Message" = "Message";
+
+/* Mi */
+"Mi" = "Mi";
+
+/* MPH */
+"MPH" = "MPH";
+
+/* No comment provided by engineer. */
+"News" = "News";
+
+/* No comment provided by engineer. */
+"Nothing to restore." = "Nothing to restore.";
+
+/* No comment provided by engineer. */
+"Product does not exists in App Store" = "Product does not exists in App Store";
+
+/* No comment provided by engineer. */
+"Product request timed out." = "Product request timed out.";
+
+/* No comment provided by engineer. */
+"Reconnect" = "Reconnect";
+
+/* No comment provided by engineer. */
+"Review" = "Review";
+
+/* No comment provided by engineer. */
+"Sorry, your CrashLight purchase can not be completed on a jailbroken device. For support, tap Home> Get Support and we'll figure it out!" = "Sorry, your CrashLight purchase can not be completed on a jailbroken device. For support, tap Home> Get Support and we'll figure it out!";
+
+/* No comment provided by engineer. */
+"unknown error" = "unknown error";
+
+/* No comment provided by engineer. */
+"User" = "User";
+
+/* No comment provided by engineer. */
+"User is not subscribed" = "User is not subscribed";
+
+/* No comment provided by engineer. */
+"Video" = "Video";
+
+/* No comment provided by engineer. */
+"Warning, CrashLight will expire in two weeks. Resubscribe and ride safe!" = "Warning, CrashLight will expire in two weeks. Resubscribe and ride safe!";
+
+/* No comment provided by engineer. */
+"You're not connected to the Internet.\nPlease connect and retry" = "You're not connected to the Internet.\nPlease connect and retry";
+
+/* No comment provided by engineer. */
+"Your CrashLight subscription has expired." = "Your CrashLight subscription has expired.";
+
+/* No comment provided by engineer. */
+"Your CRASHLIGHT subscription has expired. Resubscribe and ride safe!" = "Your CRASHLIGHT subscription has expired. Resubscribe and ride safe!";
+
+/* Switch CRASHLIGHT® on to activate */
+"Switch CRASHLIGHT® on to activate" = "Switch CRASHLIGHT® on to activate";
+
+/* CRASHLIGHT can't reach the Internet. Verify your connection to activate. */
+" CRASHLIGHT can't reach the Internet. Verify your connection to activate. " = " CRASHLIGHT can't reach the Internet. Verify your connection to activate. ";
+
+/* Map not loaded - please try again */
+"Map not loaded - please try again" = "Map not loaded - please try again";
+
+/* H-D 100 */
+"H-D® 100" = "H-D® 100";
+
+/* Starts:  */
+"Starts: " = "Starts: ";
+
+/* Ends:  */
+"Ends: " = "Ends: ";
+
+/* Category:  */
+"Category: " = "Category: ";
+
+/* Feature item:  */
+"Feature item: " = "Feature item: ";
+
+/* Rating:  */
+"Rating: " = "Rating: ";
+
+/* Make:  */
+"Make: " = "Make: ";
+
+/* Model:  */
+"Model: " = "Model: ";
+
+/* Year:  */
+"Year: " = "Year: ";
+
+/* Distance:  */
+"Distance: " = "Distance: ";
+
+/* Duration:  */
+"Duration: " = "Duration: ";
+
+/* The User didn't post anything */
+"Nothing posted yet" = "Nothing posted yet";
+
+/* The User didn't post any bike */
+"No bikes shared yet" = "No bikes shared yet";
+
+/* No routes shared yet */
+"No routes shared yet" = "No routes shared yet";
+
+/* The User isn't following anyone */
+"Not following anyone yet?" = "Not following anyone yet?";
+
+/* Nobody is following the user */
+"No followers yet?" = "No followers yet?";
+
+/* Nothing bookmarked "added to my garage"  */
+"Add a post to save for later" = "Add a post to save for later";
+
+/* No saved rides */
+"Save your rides to see them here" = "Save your rides to see them here";
+
+/* Feed Api Error */
+"Something went wrong. Try again." = "Something went wrong. Try again.";
+
+/* Comment Api Error */
+"No comments yet" = "No comments yet";
+
+
+/* Story was deleted by Admin/USER */
+"The post was deleted :(" = "The post was deleted :(";
+
+/* Back */
+"Back" = "Back";
+
+/* CrashLight - Unable to Complete the Purchase */
+"The purchase is not available right now. Please try later." = "The purchase is not available right now. Please try later.";
+
+/* CrashLight - Unable to Complete the Restore */
+"We can't restore your purchase right now. Please try later." = "We can't restore your purchase right now. Please try later.";
+
+/* AddEmergencyContact AlertBox for User */
+"Choose an email" = "Choose an email";
+
+/* GoRide Internet Connectivity Error Message */
+"INTERNET CONNECTIVITY REQUIRED" = "INTERNET CONNECTIVITY REQUIRED";
+
+/* GoRide GPS Satellites Error Message */
+"Looking For Satellites" = "Looking For Satellites";
+
+/* GoRide GPS Weak Signal Error Message */
+"Weak GPS Signal" = "Weak GPS Signal";
+
+/* GoRide Location Disabled Error Message */
+"LOCATION DISABLED - CANNOT RECORD" = "LOCATION DISABLED - CANNOT RECORD";
+
+/* GoRide Group Rider Current Status */
+"Current Stopped" = "Current Stopped";
+
+/* GoRide Group Rider Current Status */
+"Current Riding" = "Current Riding";
+
+/* GoRide Group Rider Currently Xkms Away */
+"Currently" = "Currently";
+
+/* GoRide Group Rider Currently Xkms Away */
+"Away" = "Away";
+
+/* GoRide Ride Too Short Alert Title */
+"That Ride was a bit short" = "That Ride was a bit short";
+
+/* GoRide Ride Too Short Alert Message */
+"Are you sure you meant to stop so soon?" = "Are you sure you meant to stop so soon?";
+
+/* GoRide Ride Too Short Alert Keep Riding Action */
+"Keep Riding" = "Keep Riding";
+
+/* GoRide Ride Too Short Alert Discard this Ride Action */
+"Discard this Ride" = "Discard this Ride";
+
+/* GoRide Clear Nearby Alert message */
+"Clear all Routes and Places from the map?" = "Clear all Routes and Places from the map?";
+
+/* GoRide Clear Nearby Alert Clear Action */
+"clear" = "clear";
+
+/* GoRide Enable Location Authorization Action */
+"Go To Settings" = "Go To Settings";
+
+/* Place/Route Added to Map Success Toast */
+"Added to Map" = "Added to Map";
+
+/* Place/Route Removed From Map Success Toast */
+"Removed From Map" = "Removed From Map";
+
+/* Annotation Action Sheet View Post Option Displays Detailed Post */
+"View Post" = "View Post";
+
+/* Annotation Action Sheet Add Place to Map Option */
+"Add Place to Map" = "Add Place to Map";
+
+/* Annotation Action Sheet Remove Place From Map Option */
+"Remove Place From Map" = "Remove Place From Map";
+
+/* Annotation Action Sheet Add Route to Map Option */
+"Add Route to Map" = "Add Route to Map";
+
+/* Annotation Action Sheet Remove Route From Map Option */
+"Remove Route From Map" = "Remove Route From Map";
+
+/* GoRide TabBar Icon Title */
+"Go Ride" = "Go Ride";
+
+/* GoRide GroupFabMenu Manage Group Title */
+"Manage Group" = "Manage Group";
+
+/* GoRide GroupFabMenu SyncRide Title */
+"SyncRide" = "SyncRide";
+
+/* GoRide GroupFabMenu Hide Title */
+"Hide" = "Hide";
+
+/* GoRide GroupFabMenu Show Title */
+"Show" = "Show";
+
+/* GoRide NearbyFabMenu View Nearby Title */
+"View Nearby" = "View Nearby";
+
+/* GoRide NearbyFabMenu Add Place Here Title */
+"Add Place Here" = "Add Place Here";
+
+/* GoRide NearbyFabMenu Clear All Here Title */
+"Clear All" = "Clear All";
+
+/* SaveRide Ride Name TextField Placeholder */
+"Ride Name" = "Ride Name";
+
+/* SaveRide Describe your Ride TextField Title */
+"Describe your Ride" = "Describe your Ride";
+
+/* Nearby No Place/Route Saved By the User */
+"There are no routes or places at this time. Why not add one?" = "There are no routes or places at this time. Why not add one?";
+
+/* Nearby Place/Route Add to Map Action */
+"Add to Map" = "Add to Map";
+
+/* Nearby Filter ActionSheet Sort By Distance Action */
+"Sort By Distance" = "Sort By Distance";
+
+/* Nearby Filter ActionSheet Sort By Most Recent Action */
+"Sort By Most Recent" = "Sort By Most Recent";
+
+/* Nearby Filter Button New Title */
+"New" = "New";
+
+/* Feed No Search Result */
+"Snap, results not found, try again!" = "Snap, results not found, try again!";
+
+/* Feed - Search Instructions */
+"Enter a search term, or a rider's name!" = "Enter a search term, or a rider's name!";
+
+/* Searching for GPS! Tracking & CRASHLIGHT disabled */
+"Searching for GPS! Tracking & CRASHLIGHT disabled" = "Searching for GPS! Tracking & CRASHLIGHT disabled";
+
+/* Searching for GPS! Tracking disabled */
+"Searching for GPS! Tracking disabled" = "Searching for GPS! Tracking disabled";
